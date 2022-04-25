@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div.App {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+div.section {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  line-height: 5px;
+}
+
+h5 {
+  font-weight: normal;
+  margin-top: 1;
+}
+h4 {
+  margin-bottom: 1;
+}
